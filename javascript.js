@@ -1,4 +1,5 @@
-var Sound = new Audio("Sound.mp3");
+var Sound = new Audio();
+Sound.src = "Sound.mp3";
 
 function PlaySound(){
   snd.currentTime = 0;
