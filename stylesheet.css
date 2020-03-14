@@ -1,1 +1,23 @@
+.button{
+  background-color: rgb(0, 150, 255);
+  border: 50px rgb(0, 100, 200);
+  border-radius: 500093412340px;
+  color: white;
+  padding: 100px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  align-self: center;
+  font-size: 35px;
+}
 
+.div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body{
+  background-color: rgb(150, 255, 255);
+}
